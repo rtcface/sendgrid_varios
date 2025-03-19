@@ -1,0 +1,823 @@
+{
+  "Oic_Poder_Ejecutivo": [
+    {
+      "No.": "1",
+      "UpperCase": "SECRETARÍA DE LA FUNCIÓN PÚBLICA DE TLAXCALA",
+      "Sujeto Obligado": "SECRETARÍA DE LA FUNCIÓN PÚBLICA DE TLAXCALA",
+      "name": "L.C.P. Anahí Hernández Sánchez",
+      "Teléfono ": "Oficina: 2464650900 Ext. 2102",
+      "Cargo (c. correspondencia)": "Titular del Órgano Internos de Control de la Secretaria de la Función Pública de Tlaxcala",
+      "to": "contraloriainterna.sfp@tlaxcala.gob.mx",
+      "user_name": "contraloriainterna.sfp@tlaxcala.gob.mx",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "No.": "2",
+      "UpperCase": "SECRETARÍA DE EDUCACIÓN PÚBLICA DEL ESTADO- USET",
+      "Sujeto Obligado": "Secretaría de Educación Pública del Estado- USET",
+      "name": "C.P. Dagoberto Nicolas Hernández Nanva",
+      "Teléfono ": "Oficina: 2464623600 Ext. 1019 No. personal: 246 469 5062",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control de la Secretaria de Educación Publica - USET",
+      "to": "edmundo.vazquez@uset.edu.mx",
+      "user_name": "uset@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "No.": "3",
+      "UpperCase": "PENSIONES CIVILES DEL ESTADO",
+      "Sujeto Obligado": "Pensiones Civiles del Estado",
+      "name": "Sandra Hernández Torres",
+      "Teléfono ": "2462411052",
+      "Cargo (c. correspondencia)": "Directora General de Pensiones Civiles del Estado de Tlaxcala",
+      "to": "contraloria.pcet@tlaxcala.gob.mx",
+      "user_name": "contraloria.pcet@tlaxcala.gob.mx",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "No.": "4",
+      "UpperCase": "COBAT (COLEGIO DE BACHILLERES DE TLAXCALA)",
+      "Sujeto Obligado": "COBAT (Colegio de Bachilleres de Tlaxcala)",
+      "Teléfono ": "Oficina: 2464625398 ",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control del Colegio de Bachilleres de Tlaxcala",
+      "to": "contraloria@cobatlaxcala.edu.mx"
+    },
+    {
+      "No.": "5",
+      "UpperCase": "COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS (CECYTE)",
+      "Sujeto Obligado": "Colegio de Estudios Científicos y Tecnológicos (CECYTE)",
+      "name": "L.C.P. Orquídea Jiménez Nájera",
+      "Teléfono ": "Oficina: 2464689200 Ext. 2040 ",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control del CECYTE",
+      "to": "orquidea.jimenez@cecytlax.edu.mx",
+      "user_name": "cecytlax@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "No.": "7",
+      "UpperCase": "UNIVERSIDAD POLITÉCNICA DE TLAXCALA (U.P.T)",
+      "Sujeto Obligado": "Universidad Politécnica de Tlaxcala (U.P.T)",
+      "name": "Lcdo. Hector Manuel Fernández Tapia",
+      "Teléfono ": "celular: 247 100 73 58 , 2467578278 ",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control de la Universidad Politécnica de Tlaxcala ",
+      "to": "hectormanuel.fernandez@uptlax.edu.mx",
+      "user_name": "uptlax@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "No.": "8",
+      "UpperCase": "UNIVERSIDAD POLITÉCNICA DE TLAXCALA (U.P.T. PONIENTE)",
+      "Sujeto Obligado": "Universidad Politécnica de Tlaxcala (U.P.T. Poniente)",
+      "name": "Lcdo. José Juan López Infante",
+      "Teléfono ": "Celular: 2461044867\n2414188740",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control de la Universidad Politécnica de Tlaxcala ",
+      "to": "joselopez@uptlaxponiente.edu.mx",
+      "user_name": "uptlax_poniente@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "No.": "9",
+      "UpperCase": "SECRETARÍA DE SALUD Y ORGANISMO PÚBLICO DESCENTRALIZADO SALUD DE TLAXCALA",
+      "Sujeto Obligado": "Secretaría de Salud y Organismo Público Descentralizado Salud de Tlaxcala",
+      "name": "Lcdo. Aldo Mauricio Téllez Pérez",
+      "Teléfono ": "2461811994",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control de la Secretaría de Salud y O.P.D. Salud de Tlaxcala",
+      "to": "aldo.tellez@saludtlax.gob.mx",
+      "user_name": "saludtlax@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "UpperCase": "FISCALÍA GENERAL DE JUSTICIA DEL ESTADO",
+      "Sujeto Obligado": "Fiscalía General de Justicia del Estado",
+      "name": "Mtro. Norberto Sánchez Briones",
+      "Teléfono ": "246-50500",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de la Universidad Intercultural de Tlaxcala Fiscalía General de Justicia del Estado",
+      "user_name": "fgje@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "UpperCase": "UNIVERSIDAD INTERCULTURAL DE TLAXCALA",
+      "Sujeto Obligado": "Universidad Intercultural de Tlaxcala",
+      "name": "Lcdo. Luis Ángel Berruecos Lima",
+      "Teléfono ": "247 688 1961",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de la Universidad Intercultural de Tlaxcala",
+      "user_name": "uit@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "UpperCase": "INSTITUTO TLAXCALTECA PARA DEVOLVERLE AL PUEBLO LO ROBADO",
+      "Sujeto Obligado": "Instituto Tlaxcalteca para Devolverle al Pueblo lo Robado",
+      "name": "Mtra. Abigail Griselda Rodríguez Saldaña",
+      "Teléfono ": "Aux. 2411080859 Mateo Sanchez",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno del Instituto Tlaxcalteca para Devolverle al Pueblo lo Robado",
+      "to": "contraloria.itdep@tlaxcala.gob.mx",
+      "user_name": "contraloria.itdep@tlaxcala.gob.mx",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "UpperCase": "COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA",
+      "Sujeto Obligado": "Colegio de Bachilleres del Estado de Tlaxcala",
+      "name": "Lcdo.Erik Gómez Lecona",
+      "Teléfono ": "2221185831",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno del Colegio de Bachilleres del Estado de Tlaxcala",
+      "to": "contraloria@cobatlaxcala.edu.mx",
+      "user_name": "contraloria@cobatlaxcala.edu.mx",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "UpperCase": "CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TLAXCALA",
+      "Sujeto Obligado": "Centro de Conciliación Laboral del Estado de Tlaxcala",
+      "name": "L.C.P.Agustín Guadalupe Rodríguez Texis",
+      "Teléfono ": "246 467 1700 Ext. 2909 | 2921",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno del Centro de Conciliación Laboral del Estado de Tlaxcala",
+      "user_name": "conciliacion_laboral@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "UpperCase": "ARCHIVO GENERAL E HISTÓRICO DE TLAXCALA",
+      "Sujeto Obligado": "Archivo General e Histórico de Tlaxcala",
+      "name": "L.C.P. Lucila Bautista Lira ",
+      "Teléfono ": "4645613 y 4645612 ",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control del Archivo General e Histórico de Tlaxcala",
+      "user_name": "aght@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "No.": "10",
+      "UpperCase": "SECRETARIA DE SEGURIDAD CIUDADANA",
+      "Sujeto Obligado": "Secretaria de Seguridad Ciudadana",
+      "name": "Lcda. Elizabeth Suárez Rojano",
+      "Teléfono ": "2411360431",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control de la Secretaria de Seguridad Ciudadana",
+      "to": "rojanoelizabeth36@gmail.com",
+      "user_name": "ssc@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "No.": "11",
+      "UpperCase": "COLEGIO NACIONAL DE EDUCACIÓN PROFESIONAL TÉCNICA",
+      "Sujeto Obligado": "Colegio Nacional de Educación Profesional Técnica ",
+      "name": "Lcdo. Alex Pérez Soria",
+      "Teléfono ": "2226142171\n246 466 2600 01 ",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control del Colegio Nacional de Educación Profesional Técnica",
+      "user_name": "cnept@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    }
+  ],
+  "Oic_Municipal": [
+    {
+      "Municipio": "Acuamanala de Miguel Hidalgo",
+      "name": "Licenciado Israel Cuatlapantzi Rojas",
+      "Teléfono de Presidencia Municipal": "246 497 8130",
+      "municipio": "acuamanala",
+      "user_name": "acuamanala@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "israelcuatlapanzi@gmail.com"
+    },
+    {
+      "Municipio": "Atltzayanca",
+      "name": "Licenciado en Contaduría Pública Luis Alberto Torres Mena ",
+      "Teléfono de Presidencia Municipal": "276 415 3025 ( 276) 415 3035",
+      "municipio": "atltzayanca",
+      "user_name": "atltzayanca@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "faveba1@hotmail.com"
+    },
+    {
+      "Municipio": "Amaxac de Guerrero",
+      "name": "Licenciado Serafín Hernández Romano ",
+      "Teléfono de Presidencia Municipal": "246 461 0252",
+      "municipio": "amaxac",
+      "user_name": "amaxac@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "serafinhernandezromano@gmail.com"
+    },
+    {
+      "Municipio": "Apetatitlán de Antonio Carvajal",
+      "name": "Licenciado Arturo León Tizapantzi ",
+      "Teléfono de Presidencia Municipal": "246 464 9736",
+      "municipio": "apetatitlan",
+      "user_name": "apetatitlan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "artu.ch@hotmail.com"
+    },
+    {
+      "Municipio": "Apizaco",
+      "name": "Licenciada en Contaduría Pública Certificada María Maricela Escobar Sánchez",
+      "Teléfono de Presidencia Municipal": "241 418 0845",
+      "municipio": "apizaco",
+      "user_name": "apizaco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "organo_control@apizaco.gob.mx"
+    },
+    {
+      "Municipio": "Atlangatepec",
+      "name": "Licenciado en Contaduría Pública Enrique Huitrón Sánchez",
+      "Teléfono de Presidencia Municipal": "2414123456",
+      "municipio": "atlangatepec",
+      "user_name": "atlangatepec@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "cphuitron@yahoo.com.mx"
+    },
+    {
+      "Municipio": "Benito Juárez",
+      "name": "Licenciado en Contaduría Pública Rodrigo Domínguez Vázquez ",
+      "Teléfono de Presidencia Municipal": "748 766 2275",
+      "municipio": "benito_juarez",
+      "user_name": "benito_juarez@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "rodrigodominguez44@gmail.com"
+    },
+    {
+      "Municipio": "Calpulalpan",
+      "name": "Licenciado Ricardo Daniel Aparicio Solórzano",
+      "Teléfono de Presidencia Municipal": "749 918 0225",
+      "municipio": "calpulalpan",
+      "user_name": "calpulalpan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloria_municipal@calpulalpan.gob.mx"
+    },
+    {
+      "Municipio": "Chiautempan",
+      "name": "Licenciado Juvencio Jesús Vázquez Gutiérrez",
+      "Teléfono de Presidencia Municipal": "2464615694",
+      "municipio": "chiautempan",
+      "user_name": "chiautempan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "oicchiautempan@gmail.com"
+    },
+    {
+      "Municipio": "Contla de Juan Cuamatzi",
+      "name": "Licenciado Moisés Juárez Matamoros ",
+      "Teléfono de Presidencia Municipal": "246 461 1711 ext. 116",
+      "municipio": "contla",
+      "user_name": "contla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "organointernocontla2427@gmail.com"
+    },
+    {
+      "Municipio": "Cuapiaxtla",
+      "name": "C. Vicente Hernández Montes",
+      "Teléfono de Presidencia Municipal": "276 478 2200",
+      "municipio": "cuapiaxtla",
+      "user_name": "cuapiaxtla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "vicent.herna_2197@outlook.com"
+    },
+    {
+      "Municipio": "Cuaxomulco",
+      "name": "Licenciada Leticia Luna Arenas",
+      "Teléfono de Presidencia Municipal": "241 415 2255",
+      "municipio": "cuaxomulco",
+      "user_name": "cuaxomulco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "lunita_fer6@hotmail.com"
+    },
+    {
+      "Municipio": "El Carmen Tequexquitla",
+      "name": "Licenciado Azarel Izalde Fernández ",
+      "Teléfono de Presidencia Municipal": "276 477 5165, 246 126 4252",
+      "municipio": "tequexquitla",
+      "user_name": "tequexquitla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloriatequexquitla@gmail.com"
+    },
+    {
+      "Municipio": "Emiliano Zapata",
+      "name": "Licenciada Nelly Herrera Sánchez",
+      "Teléfono de Presidencia Municipal": "241 415 81 11 ",
+      "municipio": "emiliano_zapata",
+      "user_name": "emiliano_zapata@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "nellyhe3@hotmail.com "
+    },
+    {
+      "Municipio": "Españita",
+      "name": "Licenciado Rafael Alejandro Cabrera Toquiantzi ",
+      "Teléfono de Presidencia Municipal": "241 415 3605",
+      "municipio": "españita",
+      "user_name": "españita@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloriahe2024@gmail.com"
+    },
+    {
+      "Municipio": "Huamantla",
+      "name": "Licenciado César Pérez Hernández ",
+      "Teléfono de Presidencia Municipal": "247 472 5600",
+      "municipio": "huamantla",
+      "user_name": "huamantla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloria.municipal24-27@huamantla.gob.mx"
+    },
+    {
+      "Municipio": "Hueyotlipan",
+      "name": "Licenciado en Contaduría Pública Francisco Joel Sánchez Corona ",
+      "Teléfono de Presidencia Municipal": "241 415 0345",
+      "municipio": "hueyotlipan",
+      "user_name": "hueyotlipan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "jsc-29@hotmail.com"
+    },
+    {
+      "Municipio": "Ixtacuixtla de Mariano Matamoros",
+      "name": "Licenciado Alejandro Gil Torres",
+      "Teléfono de Presidencia Municipal": "248 481 5045",
+      "municipio": "ixtacuixtla",
+      "user_name": "ixtacuixtla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "gita_1972znd@hotmail.com"
+    },
+    {
+      "Municipio": "Ixtenco",
+      "name": "Licenciado Eric Vázquez García",
+      "Teléfono de Presidencia Municipal": "247 47 29223",
+      "municipio": "ixtenco",
+      "user_name": "ixtenco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "lawyereric_@hotmail.com"
+    },
+    {
+      "Municipio": "La Magdalena Tlaltelulco",
+      "name": "C. Juana Pluma Escobar",
+      "Teléfono de Presidencia Municipal": "246 358 5581",
+      "municipio": "magdalena",
+      "user_name": "magdalena@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "plumaescobarjuana@gmail.com"
+    },
+    {
+      "Municipio": "Lázaro Cárdenas",
+      "name": "Licenciado Jorge Adán Maldonado Portillo",
+      "Teléfono de Presidencia Municipal": "241 415 5046",
+      "municipio": "lazaro_cardenas",
+      "user_name": "lazaro_cardenas@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "bebetoro76@gmail.com"
+    },
+    {
+      "Municipio": "Mazatecochco de José María Morelos",
+      "name": "Licenciada en Contaduría Pública Diana Laura Ortiz Mendieta ",
+      "Teléfono de Presidencia Municipal": "222 263 0441",
+      "municipio": "mazatecochco",
+      "user_name": "mazatecochco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "dianitaortiz_0598@hotmail.com"
+    },
+    {
+      "Municipio": "Muñoz de Domingo Arenas",
+      "name": "Licenciada Coral Luna Vázquez",
+      "Teléfono de Presidencia Municipal": "241 415 1019",
+      "municipio": "domingo_arenas",
+      "user_name": "domingo_arenas@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloria@munoz.gob.mx"
+    },
+    {
+      "Municipio": "Nanacamilpa de Mariano Arista",
+      "name": "Licenciado en Contaduría Pública Luis Antonio Vázquez Cárcamo",
+      "Teléfono de Presidencia Municipal": "748 766 0002 , 748 766 0003",
+      "municipio": "nanacamilpa",
+      "user_name": "nanacamilpa@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contralorm.organointerno@nanacamilpa.gob.mx"
+    },
+    {
+      "Municipio": "Natívitas",
+      "name": "Licenciado en Contaduría Pública Leobardo Cabrera Hernández",
+      "Teléfono de Presidencia Municipal": "246 416 0033",
+      "municipio": "nativitas",
+      "user_name": "nativitas@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "cpleon01@hotmail.com"
+    },
+    {
+      "Municipio": "Panotla",
+      "name": "Licenciada Stephanie Nallely Díaz Hernández",
+      "Teléfono de Presidencia Municipal": "246 416 8297",
+      "municipio": "panotla",
+      "user_name": "panotla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "fanitcia2207@gmail.com"
+    },
+    {
+      "Municipio": "Papalotla de Xicohténcatl",
+      "name": "Licenciada Nancy Muñoz Solis ",
+      "Teléfono de Presidencia Municipal": "222 281 0060",
+      "municipio": "papalotla",
+      "user_name": "papalotla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "organointernodecontrol@papalotlatlaxcala.gob.mx"
+    },
+    {
+      "Municipio": "San Damián Texóloc",
+      "name": "Licenciada Mariana Castrejon Herrera ",
+      "municipio": "texoloc",
+      "user_name": "texoloc@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "mariana.castrejon2468@gmail.com"
+    },
+    {
+      "Municipio": "San Francisco Tetlanohcan",
+      "name": "Licenciado Alan Padilla Serrano",
+      "Teléfono de Presidencia Municipal": "246 461 7212 , 246 416 6580",
+      "municipio": "tetlanohcan",
+      "user_name": "tetlanohcan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "alanpadilla_18@hotmail.com"
+    },
+    {
+      "Municipio": "San Jerónimo Zacualpan",
+      "name": "Licenciada en Contaduría Pública Jenevit Pérez Flores",
+      "Teléfono de Presidencia Municipal": "246 497 0542",
+      "municipio": "zacualpan",
+      "user_name": "zacualpan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "jenevitperezflores@gmail.com"
+    },
+    {
+      "Municipio": "San José Teacalco",
+      "name": "Licenciado Alan Geovanny Fuentes Sánchez",
+      "Teléfono de Presidencia Municipal": "221 838 4415",
+      "municipio": "san_jose_teacalco",
+      "user_name": "san_jose_teacalco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "oicsanjoseteacalco2427@gmail.com"
+    },
+    {
+      "Municipio": "San Juan Huactzinco",
+      "name": "Licenciado Marco Antonio Carro Guzmán",
+      "Teléfono de Presidencia Municipal": "246 497 0566",
+      "municipio": "huactzinco",
+      "user_name": "huactzinco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "carguz_elv21@hotmail.com"
+    },
+    {
+      "Municipio": "San Lorenzo Axocomanitla",
+      "name": "Licenciada Jenny Maza Meneses ",
+      "Teléfono de Presidencia Municipal": "246 328 2814",
+      "municipio": "axocomanitla",
+      "user_name": "axocomanitla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "jennymaza898@gmail.com"
+    },
+    {
+      "Municipio": "San Lucas Tecopilco",
+      "name": "MARIA AZAHALIA CORDOVA ALONSO",
+      "municipio": "tecopilco",
+      "user_name": "tecopilco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "axaha_lia@hotmail.com"
+    },
+    {
+      "Municipio": "San Pablo del Monte",
+      "name": "Licenciado en Contaduría Pública Iván Flores Silva ",
+      "municipio": "san_pablo",
+      "user_name": "san_pablo@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "cpivanfloressilva@gmail.com"
+    },
+    {
+      "Municipio": "Sanctórum de Lázaro Cárdenas",
+      "name": "Licenciado Carlos Eligio Cova Castillo",
+      "municipio": "sanctorum",
+      "user_name": "sanctorum@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "organocontrolinterno505@gmail.com"
+    },
+    {
+      "Municipio": "Santa Ana Nopalucan",
+      "name": "L.C.P. Vicente Vásquez Cervantes ",
+      "Teléfono de Presidencia Municipal": "246 688 8383",
+      "municipio": "nopalucan",
+      "user_name": "nopalucan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "despachonopalucan2427@gmail.com"
+    },
+    {
+      "Municipio": "Santa Apolonia Teacalco",
+      "name": "Licenciada Madián Pérez Gutiérrez",
+      "Teléfono de Presidencia Municipal": "246 416 2236",
+      "municipio": "santa_apolonia_teacalco",
+      "user_name": "santa_apolonia_teacalco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "madianpg@gmail.com"
+    },
+    {
+      "Municipio": "Santa Catarina Ayometla",
+      "name": "Licenciado Edilberto endez hernadez ",
+      "Teléfono de Presidencia Municipal": "246 497 1839 ",
+      "municipio": "ayometla",
+      "user_name": "ayometla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloria_2021@outlook.com , municipio.ayometla.2024.2027@gmail.com"
+    },
+    {
+      "Municipio": "Santa Cruz Quilehtla",
+      "name": "Licenciada Sandra Sánchez Moreno ",
+      "municipio": "quilehtla",
+      "user_name": "quilehtla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloria_2021@outlook.com , municipio.ayometla.2024.2027@gmail.com"
+    },
+    {
+      "Municipio": "Santa Cruz Tlaxcala",
+      "name": "Licenciada en Noemi Moncayo Sanchez",
+      "Teléfono de Presidencia Municipal": "246 461 0337",
+      "municipio": "santa_cruz_tlaxcala",
+      "user_name": "santa_cruz_tlaxcala@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "guillermo060262@gmail.com"
+    },
+    {
+      "Municipio": "Santa Isabel Xiloxoxtla",
+      "name": "Licenciada Ania Carolina Molina Jiménez",
+      "Teléfono de Presidencia Municipal": "246 461 71 50",
+      "municipio": "xiloxoxtla",
+      "user_name": "xiloxoxtla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "carmona.asociados@outlook.com"
+    },
+    {
+      "Municipio": "Tenancingo",
+      "name": "Abogado Jesús Salvador Herrera Jiménez",
+      "Teléfono de Presidencia Municipal": "222 281 1026",
+      "municipio": "tenancingo",
+      "user_name": "tenancingo@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "sherrerajz@gmail.com"
+    },
+    {
+      "Municipio": "Teolocholco",
+      "name": "Licenciado en Contaduría Publica Guillermo Juan Berruecos Rodríguez ",
+      "Teléfono de Presidencia Municipal": "246 46 16 544",
+      "municipio": "teolocholco",
+      "user_name": "teolocholco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "organointernocontrol2427@gmail.com"
+    },
+    {
+      "Municipio": "Tepetitla de Lardizábal",
+      "name": "Licenciado en Derecho José Carlos Cano Flores ",
+      "municipio": "tepetitla",
+      "user_name": "tepetitla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "cano89608@gmail.com"
+    },
+    {
+      "Municipio": "Tepeyanco",
+      "name": "Licenciado Tehozol Rivera Luis ",
+      "Teléfono de Presidencia Municipal": "246 497 1623",
+      "municipio": "tepeyanco",
+      "user_name": "tepeyanco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "ltrivera7691@gmail.com"
+    },
+    {
+      "Municipio": "Terrenate",
+      "name": "C. Jhovany Fernández Romero ",
+      "Teléfono de Presidencia Municipal": "241 415 62 50",
+      "municipio": "terrenate",
+      "user_name": "terrenate@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "jhovanyfernandezromero@gmail.com"
+    },
+    {
+      "Municipio": "Tetla de la Solidaridad",
+      "name": "Licenciado Enrique Velázquez Trejo",
+      "Teléfono de Presidencia Municipal": "241 41 2 008",
+      "municipio": "tetla",
+      "user_name": "tetla@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloria@tetlatlaxcala.gob.mx"
+    },
+    {
+      "Municipio": "Tetlatlahuca",
+      "name": "Licenciado en Contaduría Pública Alfredo Luna Ruiz ",
+      "Teléfono de Presidencia Municipal": "2464162921",
+      "municipio": "tetlatlahuca",
+      "user_name": "tetlatlahuca@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "alfred1267@hotmail.com"
+    },
+    {
+      "Municipio": "Tlaxcala",
+      "name": "Licenciado Luis Pineda Ortega",
+      "Teléfono de Presidencia Municipal": "2464620014",
+      "municipio": "tlaxcala",
+      "user_name": "tlaxcala@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "control.interno@tlaxcaladexicohtencatl.gob.mx"
+    },
+    {
+      "Municipio": "Tlaxco",
+      "name": "Licenciada Rosita Flores Gálvez",
+      "Teléfono de Presidencia Municipal": "241 49 600 07 , 241 496 0299",
+      "municipio": "tlaxco",
+      "user_name": "tlaxco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloria@tlaxcotlaxcala.com"
+    },
+    {
+      "Municipio": "Tocatlán",
+      "name": "Licenciada Martha Sánchez Hernández ",
+      "Teléfono de Presidencia Municipal": "241 413 0069",
+      "municipio": "tocatlan",
+      "user_name": "tocatlan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "tocatlancontraloria@gmail.com"
+    },
+    {
+      "Municipio": "Totolac",
+      "name": "C.P. José Isabel González Flores",
+      "Teléfono de Presidencia Municipal": "246 328 0933",
+      "municipio": "totolac",
+      "user_name": "totolac@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "contraloria@totolac.gob.mx"
+    },
+    {
+      "Municipio": "Tzompantepec",
+      "name": "Licenciado Rodrigo Barrón Córdova",
+      "Teléfono de Presidencia Municipal": "241 415 2315",
+      "municipio": "tzompantepec",
+      "user_name": "tzompantepec@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "oictzompantepec@gmail.com"
+    },
+    {
+      "Municipio": "Xaloztoc",
+      "name": "Licenciado Francisco Castillo Pérez",
+      "Teléfono de Presidencia Municipal": "241 413 0300",
+      "municipio": "xaloztoc",
+      "user_name": "xaloztoc@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "frankcp241@gmail.com"
+    },
+    {
+      "Municipio": "Xaltocan",
+      "name": "Licenciada Yamileth Vázquez Sánchez",
+      "Teléfono de Presidencia Municipal": "2414154092/2414154016",
+      "municipio": "xaltocan",
+      "user_name": "xaltocan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "yamilethvazquez051@gmail.com"
+    },
+    {
+      "Municipio": "Xicohtzinco",
+      "name": "Licenciada Verenice Ortíz Sánchez",
+      "municipio": "xicohtzinco",
+      "user_name": "xicohtzinco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "osverenice@gmail.com"
+    },
+    {
+      "Municipio": "Yauhquemehcan",
+      "name": "Maestro Marco Antonio Ocampo Cid",
+      "Teléfono de Presidencia Municipal": "241 415 4948",
+      "municipio": "yauhquemehcan",
+      "user_name": "yauhquemehcan@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "ocacidunam@yahoo.com.mx"
+    },
+    {
+      "Municipio": "Zacatelco",
+      "name": "Licenciado en Derecho Francisco Fierro Orea ",
+      "Teléfono de Presidencia Municipal": "246 497 2172",
+      "municipio": "zacatelco",
+      "user_name": "zacatelco@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "paco.fierro.2891@gmail.com"
+    },
+    {
+      "Municipio": "Zitlaltépec de Trinidad Sánchez Santos",
+      "name": "Licenciado Marcial Bernardino Tlachi Juárez ",
+      "Teléfono de Presidencia Municipal": "223 478 0219",
+      "municipio": "zitlaltepec",
+      "user_name": "zitlaltepec@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "tlachijuarez@yahoo.com.mx"
+    }
+  ],
+  "OIC_Organismos_Autonomos": [
+    {
+      "No": "1",
+      "Organismos Autónomos": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Tlaxcala",
+      "Nombre de titular ": "Lcda. Fidelia Polvo Caloch",
+      "Cargo (c. correspondencia)": "Jefa de oficina",
+      "Teléfono": "2461892520",
+      "Correo electrónico": "fpcaloch@hotmail.com",
+      "Usuario": "oic@saetlax.org",
+      "Estatus": "OK"
+    },
+    {
+      "No": "2",
+      "Organismos Autónomos": "Comisión Estatal de Derechos Humanos",
+      "Nombre de titular ": "Lcda. Teodora Popocatl Nava",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de la Comision Estatal de Derechos Humanos / Visitadora General, encargada del Organo Interno de Control de la CEDHTLAX",
+      "Teléfono": "2461032347",
+      "Correo electrónico": "doris.popocatl@gmail.com",
+      "Usuario": "doris.popocatl@gmail.com",
+      "Estatus": "Sin Datos"
+    },
+    {
+      "No": "3",
+      "Organismos Autónomos": "Instituto Tlaxcalteca de Elecciones",
+      "Nombre de titular ": "C.P. Johancy Aquiahuatl Denicia",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno del Instituto Tlaxcalteca de Elecciones",
+      "Teléfono": "2464650340",
+      "Correo electrónico": "johancy_a@hotmail.com , contraloria@itetlax.org.mx",
+      "Usuario": "contraloria@itetlax.org.mx",
+      "Estatus": "OK"
+    },
+    {
+      "No": "4",
+      "Organismos Autónomos": "Tribunal de Conciliación y Arbitraje",
+      "Nombre de titular ": "Lcda. Mónica Sánchez Lumbreras",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno del Tribunal de Conciliación y Arbitraje",
+      "Teléfono": "2462218822, 24646 2 66 70, 24646 2 74 10",
+      "Correo electrónico": "monica.snlumbreras@gmail.com, presidenciatcyat@tca-tlax.org",
+      "Usuario": "tca@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    },
+    {
+      "No": "5",
+      "Organismos Autónomos": "Tribunal Electoral de Tlaxcala ",
+      "Nombre de titular ": "C.P. Doraliz Cuapio Muñoz ",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno del Tribunal Electoral de Tlaxcala",
+      "Teléfono": "2467575317",
+      "Correo electrónico": "contralor@tetlax.org.mx",
+      "Usuario": "marco.ocampo@tetlax.org.mx",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Sin Acceso"
+    },
+    {
+      "No": "6",
+      "Organismos Autónomos": "Tribunal de Justicia Administrativa",
+      "Nombre de titular ": "Dra. Isaura Oropeza Canto",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control del Tribunal de Justicia Administrativa",
+      "Teléfono": "2227824773",
+      "Correo electrónico": "contraloria.tjatlx@gmail.com",
+      "Usuario": "contraloria.tjatlx@tjaet.gob.mx",
+      "Estatus": "ok"
+    },
+    {
+      "No": "7",
+      "Organismos Autónomos": "Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala",
+      "Nombre de titular ": "No tiene designado"
+    },
+    {
+      "No": "8",
+      "Organismos Autónomos": "Universidad Autónoma de Tlaxcala",
+      "Nombre de titular ": "Dra. Lucero Cuateppotzo Sanchez ",
+      "Teléfono": "246 462 9560",
+      "Correo electrónico": "contraloria@uatx.mx",
+      "Usuario": "contraloria@uatx.mx",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente por correo"
+    },
+    {
+      "Organismos Autónomos": "Otros entes públicos",
+      "Nombre de titular ": "Nombre de titular ",
+      "Teléfono": "Número Telefónico",
+      "Correo electrónico": "Correo electrónico"
+    },
+    {
+      "No": "1",
+      "Organismos Autónomos": "Tribunal Superior de Justicia del Estado de Tlaxcala",
+      "Nombre de titular ": "Lcdo. José Fernando Guzmán Zárate",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno de Control del Poder Judicial del Estado de Tlaxcala ",
+      "Teléfono": "(241) 412 90 00 Ext. 3139",
+      "Correo electrónico": "contraloria@tsjtlaxcala.gob.mx",
+      "Usuario": "contraloria@tsjtlaxcala.gob.mx",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Sin Acceso"
+    },
+    {
+      "No": "2",
+      "Organismos Autónomos": "Congreso del Estado",
+      "Nombre de titular ": "L. C.P. Jorge López Márquez",
+      "Cargo (c. correspondencia)": "Titular del Órgano Interno del Congreso del Estado",
+      "Teléfono": "246 68 93382 Ext. 1293",
+      "Correo electrónico": "lopez.marquez@congresodetlaxcala.gob.mx Correo del Secretario Particular del OIC, C.P. Carlos Pérez Hernández.: cp_perezh2011@hotmail.com",
+      "Usuario": "oic_congreso_tlaxcala@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente por Correo"
+    }
+  ]
+}

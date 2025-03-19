@@ -1,0 +1,298 @@
+{
+    "entes": [
+        {
+            "id": 91,
+            "ente_publico": "Emiliano Zapata",
+            "name": "C. Mariana Herrera Márquez",
+            "to": "mariana.sindico@outlook.com"
+        },
+        {
+            "id": 92,
+            "ente_publico": "Emiliano Zapata",
+            "name": "Licenciada Nelly Herrera Sánchez",
+            "to": "nellyhe3@hotmail.com"
+        },
+        {
+            "id": 93,
+            "ente_publico": "EMILIANO ZAPATA",
+            "name": "Licenciado Edgar Macías Moreno",
+            "to": "presidenciaemilianozapatatlaxc@gmail.com"
+        },
+        {
+            "id": 94,
+            "ente_publico": "Españita",
+            "name": "Licenciada Patricia Juárez Gutiérrez",
+            "to": "dennis_100390@hotmail.com"
+        },
+        {
+            "id": 95,
+            "ente_publico": "ESPAÑITA",
+            "name": "Licenciado En Contaduría Pública Juan Carlos Galindo López",
+            "to": "jcgl870623@hotmail.com , "
+        },
+        {
+            "id": 96,
+            "ente_publico": "Españita",
+            "name": "Licenciado Rafael Alejandro Cabrera Toquiantzi",
+            "to": "rafalex87@hotmail.com"
+        },
+        {
+            "id": 97,
+            "ente_publico": "FIDEICOMISO DE LA CIUDAD INDUSTRIAL XICOHTÉNCATL",
+            "name": "Mtra. Haide Gisela Lucero Zepeda",
+            "to": "gerencia@fidecix.com"
+        },
+        {
+            "id": 98,
+            "ente_publico": "FISCALÍA GENERAL DE JUSTICIA",
+            "name": "Mtra. Ernestina Carro Roldán",
+            "to": "despacho@pgjtlaxcala.gob.mx"
+        },
+        {
+            "id": 100,
+            "ente_publico": "FONDO MACRO PARA EL DESARROLLO INTEGRAL DE TLAXCALA",
+            "name": "Ing. Juan Dolores Morales Pluma",
+            "to": "despacho@fomtlax.gob.mx"
+        },
+        {
+            "id": 101,
+            "ente_publico": "Huamantla",
+            "name": "Licenciado César Pérez Hernández",
+            "to": "contraloria.municipal24-27@huamantla.gob.Mx"
+        },
+        {
+            "id": 102,
+            "ente_publico": "HUAMANTLA",
+            "name": "Licenciado Juan Salvador Santos Cedillo",
+            "to": "presidencia2427@huamantla.gob.mx"
+        },
+        {
+            "id": 103,
+            "ente_publico": "Huamantla",
+            "name": "Licenciada Brizeyla Iveet Rodríguez López",
+            "to": "sindicatura24-27@huamantla.gob.mx"
+        },
+        {
+            "id": 104,
+            "ente_publico": "HUEYOTLIPAN",
+            "name": "C. Sóstenes Esteban Bedolla Espinoza",
+            "to": "hueyotlipan2024-2027@outlook.com"
+        },
+        {
+            "id": 105,
+            "ente_publico": "Hueyotlipan",
+            "name": "Licenciado en Contaduría Pública Francisco Joel Sánchez Corona",
+            "to": "jsc-29@hotmail.com"
+        },
+        {
+            "id": 106,
+            "ente_publico": "Hueyotlipan",
+            "name": "Licenciada Mary Carmen Susano Pérez",
+            "to": "susanomary75@gmail.com"
+        },
+        {
+            "id": 107,
+            "ente_publico": "Instituto de Acceso a la Información Pública y Protección de Datos Personales",
+            "name": "Lcda. Maribel Rodríguez Piedras",
+            "to": "maribel.rodriguez@iaiptlaxcala.org.mx"
+        },
+        {
+            "id": 109,
+            "ente_publico": "INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE TLAXCALA",
+            "name": "Mtro. Juan Javier Potrero Tizamitl",
+            "to": "direcciongeneral@icatlax.edu.mx "
+        },
+        {
+            "id": 110,
+            "ente_publico": "INSTITUTO DE CATASTRO DEL ESTADO DE TLAXCALA",
+            "name": "Ing. Rafael Rogelio Espinoza Osorio",
+            "to": "directorgeneral.catastro@tlaxcala.gob.mx"
+        },
+        {
+            "id": 111,
+            "ente_publico": "INSTITUTO DEL DEPORTE DE TLAXCALA",
+            "name": "Dr. Daniel Moncayo Cervantes",
+            "to": "direccion.idet1@gmail.com"
+        },
+        {
+            "id": 112,
+            "ente_publico": "INSTITUTO ELECTORAL DE TLAXCALA",
+            "name": "Mtro. Emmanuel Ávila González",
+            "to": "presidentaite@gmail.com"
+        },
+        {
+            "id": 113,
+            "ente_publico": "INSTITUTO TECNOLÓGICO SUPERIOR DE TLAXCO",
+            "name": "Lcda. Luz Vera Díaz",
+            "to": "dir_dtlaxco@tecnm.mx"
+        },
+        {
+            "id": 114,
+            "ente_publico": "INSTITUTO TLAXCALTECA DE ASISTENCIA ESPECIALIZADA A LA SALUD",
+            "name": "Dr. Adán Baltazar Lima Bernal",
+            "to": "itaes@tlaxcala.gob.mx"
+        },
+        {
+            "id": 115,
+            "ente_publico": "INSTITUTO TLAXCALTECA DE DESARROLLO TAURINO",
+            "name": "Mt. José Luis Angelino Arriaga",
+            "to": "jluisangelino@hotmail.com"
+        },
+        {
+            "id": 116,
+            "ente_publico": "INSTITUTO TLAXCALTECA DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA",
+            "name": "Lcdo. Cutberto Benito Cano Coyotl",
+            "to": "direcciongeneral@itife.gob.mx "
+        },
+        {
+            "id": 117,
+            "ente_publico": "INSTITUTO TLAXCALTECA DE LA JUVENTUD",
+            "name": "Lcda. Lucero Morales Tzompa",
+            "to": "participacionjuvenilitjqgmail.com"
+        },
+        {
+            "id": 118,
+            "ente_publico": "INSTITUTO TLAXCALTECA PARA LA EDUCACIÓN DE LOS ADULTOS",
+            "name": "Lcda. Michaelle Brito Vázquez",
+            "to": "mbrito@inea.gob.mx"
+        },
+        {
+            "id": 119,
+            "ente_publico": "Ixtacuixtla de Mariano Matamoros",
+            "name": "Licenciada Brenda Margarita Juárez Martínez",
+            "to": "brend.jm21@gmail.com"
+        },
+        {
+            "id": 120,
+            "ente_publico": "Ixtacuixtla de Mariano Matamoros",
+            "name": "Licenciado Alejandro Gil Torres",
+            "to": "gita_1972znd@hotmail.com"
+        },
+        {
+            "id": 121,
+            "ente_publico": "IXTACUIXTLA DE MARIANO MATAMOROS",
+            "name": "Licenciado Alberto Hernández Olivares",
+            "to": "ixtacuixtla2024.2027@gmail.com"
+        },
+        {
+            "id": 122,
+            "ente_publico": "IXTENCO",
+            "name": "Maestra Miriam Aline Lazo Caballero",
+            "to": "0/ presidencia@ixtenco.gob.mx"
+        },
+        {
+            "id": 123,
+            "ente_publico": "Ixtenco",
+            "name": "Técnico Ignacio Velázquez Duran",
+            "to": "ivelazquez_sn@hotmail.com"
+        },
+        {
+            "id": 124,
+            "ente_publico": "Ixtenco",
+            "name": "Licenciado Eric Vázquez García",
+            "to": "lawyereric_@hotmail.com"
+        },
+        {
+            "id": 125,
+            "ente_publico": "La Magdalena Tlaltelulco",
+            "name": "C. Pedro Escobar Onofre",
+            "to": "Pedroonofre429@gmail.com"
+        },
+        {
+            "id": 126,
+            "ente_publico": "La Magdalena Tlaltelulco",
+            "name": "C. Juana Pluma Escobar",
+            "to": "plumaescobarjuana@gmail.com"
+        },
+        {
+            "id": 127,
+            "ente_publico": "LA MAGDALENA TLALTELULCO",
+            "name": "Licenciada Rocío Claudia Meléndez Pluma",
+            "to": "presidencia.tlaltelulco.24.27@gmail.com"
+        },
+        {
+            "id": 128,
+            "ente_publico": "Lázaro Cárdenas",
+            "name": "Licenciado Jorge Adán Maldonado Portillo",
+            "to": "bebetoro76@gmail.com"
+        },
+        {
+            "id": 129,
+            "ente_publico": "LÁZARO CÁRDENAS",
+            "name": "Licenciada Elena Macías Díaz",
+            "to": "elenapresilazarocardenas@gmail.com "
+        },
+        {
+            "id": 130,
+            "ente_publico": "Lázaro Cárdenas",
+            "name": "C. Noe González Hernández",
+            "to": "sindicogonzalezhernandez@gmail.com"
+        },
+        {
+            "id": 131,
+            "ente_publico": "Mazatecochco de José María Morelos",
+            "name": "Licenciada en Contaduría Pública Diana Laura Ortiz Mendieta",
+            "to": "dianitaortiz_0598@hotmail.com"
+        },
+        {
+            "id": 132,
+            "ente_publico": "Mazatecochco de José María Morelos",
+            "name": "Licenciada Mariam Naomi Sánchez Xicohténcatl",
+            "to": "mimi246120@gmail.com"
+        },
+        {
+            "id": 133,
+            "ente_publico": "MAZATECOCHCO DE JOSÉ MARÍA MORELOS",
+            "name": "Ingeniero Emilio González Cortés",
+            "to": "monu_eg@hotmail.com"
+        },
+        {
+            "id": 134,
+            "ente_publico": "Muñoz de Domingo Arenas",
+            "name": "Licenciada Coral Luna Vázquez",
+            "to": "clunavazquez3@gmail.com"
+        },
+        {
+            "id": 135,
+            "ente_publico": "Muñoz de Domingo Arenas",
+            "name": "Licenciada Alondra Joseline Rodríguez Rodríguez",
+            "to": "hectorpriscopm2124@gmail.com"
+        },
+        {
+            "id": 136,
+            "ente_publico": "MUÑOZ DE DOMINGO ARENAS",
+            "name": "Licenciado Héctor Prisco Fernández",
+            "to": "hectorpriscopm2124@gmail.com "
+        },
+        {
+            "id": 137,
+            "ente_publico": "Nanacamilpa de Mariano Arista",
+            "name": "Licenciado en Contaduría Pública Luis Antonio Vázquez Cárcamo",
+            "to": "contralorm.organointerno@nanacamilpa.gob.mx"
+        },
+        {
+            "id": 138,
+            "ente_publico": "NANACAMILPA DE MARIANO ARISTA",
+            "name": "Licenciado Aron Vargas Ángel",
+            "to": "despachopresidencia@nanacamilpa.gob.mx"
+        },
+        {
+            "id": 139,
+            "ente_publico": "Nanacamilpa de Mariano Arista",
+            "name": "Licenciada Areli Zarate Brindis",
+            "to": "sindicatura.nanacamilpa@nanacamilpa.gob.mx"
+        },
+        {
+            "id": 140,
+            "ente_publico": "NATÍVITAS",
+            "name": "Licenciado Óscar Murias Juárez",
+            "to": "ayuntamientonativitas20242027@gmail.com"
+        },
+        {
+            "id": 141,
+            "ente_publico": "Natívitas",
+            "name": "Licenciado en Contaduría Pública Leobardo Cabrera Hernández",
+            "to": "cpleon01@hotmail.com"
+        }
+    ]
+}

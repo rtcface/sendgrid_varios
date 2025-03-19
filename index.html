@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Rubik's Cube</title>
+    <style>
+      body {
+          background-color: #3498db;
+          font-family: Arial, sans-serif;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          height: 100vh;
+          margin: 0;
+      }
+
+      <div id="cube">Starting with a solved cube</div>
+    </style>
+  </head>
+  <body>
+    <h2>Rubik's Cube Visualizer</h2>
+    <p>
+      This is a basic visualization of the Rubik's cube. You can experiment with
+      movements!
+    </p>
+
+    <div class="cube">
+      <!-- This will display a 3x3x3 cube -->
+      <div id="color"></div>
+      <div id="face" style="text-align: center; margin-top: 50px">
+        Select color:
+      </div>
+
+      <div id="movements">
+        <!-- Manually input movements here -->
+      </div>
+    </div>
+
+    <script>
+      let cube = {
+          size: 3,
+          positions: {},
+          faces: {}
+      };
+
+      function init() {
+          const sides = 'FURBDL';
+          this.faces = { R: {}, U: {}, F: {}, B: {}, L: {}, D: };
+          for (let i of Object.keys(this.faces)) {
+              this.faces[i] = {};
+          }
+
+          this.positions = {};
+      }
+
+      function createCube() {
+          const cubeLength = 5;
+          let offset = 0;
+          for (let face of ['F', 'R', 'U', 'B', 'L', 'D']) {
+              const faceColors = ['#FF0000', '#0000FF', '#FFFF00', '#00FFFF', '#FF00FF', '#FFFF00'];
+              cube.forEach((positions, index) => {
+                  if (positions[face]) {
+                      this(positions[face], offset);
+                      offset += 1;
+                  }
+              });
+          }
+      }
+
+      function updateCube Movements(move) {
+          for (let i = 0; i < move.length; i++) {
+              const color = move[i];
+              if (color in cube.faces && Object.keys(cube.faces[color])) {
+                  // You can add more colors here
+                  this("F", `${i + 1}`, color);
+              }
+          }
+      }
+
+      function initUI() {
+          document.getElementById('cube').style.display = 'block';
+
+          for (let i of Object.keys(this.cube)) {
+              const element = document.createElement('div');
+              element.className = `flex items-center border ${this.cube[i]}`;
+              this.cube[i].appendChild(element);
+          }
+
+          document.getElementById('color').style.color = cube['R'].keys().length ?
+              'All colors are selected' :
+              'Select a color';
+
+          document.getElementById('movements').value = '';
+          init();
+      }
+
+      function initUIAndCube() {
+          init();
+          createCube();
+      }
+
+      // Start the application
+      initUIAndCube();
+    </script>
+  </body>
+</html>

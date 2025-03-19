@@ -1,0 +1,274 @@
+{
+    "entes": [
+        {
+            "id": 46,
+            "ente_publico": "Benito Juárez",
+            "name": "Licenciada Georgina Ilse Rodríguez Gutiérrez",
+            "to": "sindicatura_bj@outlook.com"
+        },
+        {
+            "id": 47,
+            "ente_publico": "CALPULALPAN",
+            "name": "Ingeniero José Manuel Jiménez del Razo",
+            "to": "presidencia@calpulalpan.gob.mx"
+        },
+        {
+            "id": 48,
+            "ente_publico": "Calpulalpan",
+            "name": "Licenciado Ricardo Daniel Aparicio Solórzano",
+            "to": "ricardodas@live.com.mx"
+        },
+        {
+            "id": 49,
+            "ente_publico": "Calpulalpan",
+            "name": "Licenciada Julia Guadalupe Yllescas Rivera",
+            "to": "sindicatura@calpulalpan.gob.mx"
+        },
+        {
+            "id": 50,
+            "ente_publico": "CASA DE LAS ARTESANÍAS DE TLAXCALA",
+            "name": "Lcdo. Saúl Pérez Bravo",
+            "to": "artesanias_tlax@yahoo.com.mx"
+        },
+        {
+            "id": 51,
+            "ente_publico": "CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TLAXCALA",
+            "name": "Lcdo. José Badillo Montiel",
+            "to": "contacto@ccltlax.gob.mx"
+        },
+        {
+            "id": 52,
+            "ente_publico": "CENTRO DE REHABILITACIÓN INTEGRAL Y ESCUELA DE TERAPIA FÍSICA",
+            "name": "Lcdo. Iván Luna Cedeño",
+            "to": "ivan_luna08@hotmail.com"
+        },
+        {
+            "id": 53,
+            "ente_publico": "CENTRO DE VINCULACIÓN Y DESARROLLO REGIONAL DEL INSTITUTO POLITÉCNICO NACIONAL (IPN), UNIDAD TLAXCALA",
+            "name": "Mtro. Víctor Oswaldo Rodríguez Arreola",
+            "to": "vrodriguez@ipn.mx"
+        },
+        {
+            "id": 54,
+            "ente_publico": "Chiautempan",
+            "name": "Ingeniero Cristóbal Cruz Cruz",
+            "to": "chiautempan2024@hotmail.com"
+        },
+        {
+            "id": 55,
+            "ente_publico": "Chiautempan",
+            "name": "Licenciado Juvencio Jesús Vázquez Gutiérrez",
+            "to": "oicchiautempan@gmail.com"
+        },
+        {
+            "id": 56,
+            "ente_publico": "CHIAUTEMPAN",
+            "name": "Licenciada Blanca Estela Ángulo Meneses",
+            "to": "presidencia2427.chiautempan@gmail.com"
+        },
+        {
+            "id": 57,
+            "ente_publico": "COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA",
+            "name": "Dr. José Alonso Trujillo Domínguez",
+            "to": "dir.general@cobatlaxcala.edu.mx"
+        },
+        {
+            "id": 58,
+            "ente_publico": "COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE TLAXCALA",
+            "name": "Mtro. Darwin Pérez y Pérez",
+            "to": "direccion.general@tlaxcala.conalep.edu.mx"
+        },
+        {
+            "id": 59,
+            "ente_publico": "COLEGIOS DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE TLAXCALA",
+            "name": "Mtro. Blas Marvin Mora Olvera",
+            "to": "secretaria.particular@cecytlax.edu.mx"
+        },
+        {
+            "id": 60,
+            "ente_publico": "COMISIÓN EJECUTIVA DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA",
+            "name": "Mtro. Maximino Hernández Pulido",
+            "to": "comision.ejecutiva@cesesptlax.gob.mx"
+        },
+        {
+            "id": 61,
+            "ente_publico": "COMISIÓN ESTATAL DE AGUA DE TLAXCALA",
+            "name": "Mtro. Javier Israel Tobon Solano",
+            "to": "i.tobon@ceastlaxcala.gob.mx"
+        },
+        {
+            "id": 62,
+            "ente_publico": "COMISIÓN ESTATAL DE ARBITRAJE MÉDICO",
+            "name": "Dr. Oscar Xicohténcatl Pérez",
+            "to": "ceam@tlaxcala.gob.mx "
+        },
+        {
+            "id": 63,
+            "ente_publico": "COMISIÓN ESTATAL DE DERECHOS HUMANOS",
+            "name": "Mtra. Jakqueline Ordoñez Brasdefer",
+            "to": "presidencia@cedhtlax.org.mx "
+        },
+        {
+            "id": 64,
+            "ente_publico": "COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA LOS RIESGOS SANITARIOS DE TLAXCALA",
+            "name": "Dra. Mónica Yazmín Jiménez Gutiérrez",
+            "to": "coeprist@saludtlax.gob.mx"
+        },
+        {
+            "id": 65,
+            "ente_publico": "CONGRESO DEL ESTADO",
+            "name": "Dip. Reyna Flor Báez Lozano",
+            "to": "reyna.baez@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 66,
+            "ente_publico": "CONSEJERÍA JURÍDICA DEL EJECUTIVO DEL ESTADO",
+            "name": "Lcdo. Rubén Terán Águila",
+            "to": "cjuridica@tlaxcala.gob.mx"
+        },
+        {
+            "id": 67,
+            "ente_publico": "Consejo de la Judicatura",
+            "name": "Lcda. Alejandra Cósetl Flores",
+            "to": "carreraj.consejo@tsjtlaxcala.gob.mx"
+        },
+        {
+            "id": 68,
+            "ente_publico": "Consejo de la Judicatura",
+            "name": "Lcdo. Miguel Sánchez Ramírez",
+            "to": "lizbeth.briones@prolega.com"
+        },
+        {
+            "id": 69,
+            "ente_publico": "Consejo de la Judicatura",
+            "name": "Lcda. Violeta Fernández Vázquez",
+            "to": "violeta.fv@tsjtlaxcala.gob.mx"
+        },
+        {
+            "id": 70,
+            "ente_publico": "CONSEJO ESTATAL DE POBLACIÓN",
+            "name": "Lcda. Belén Vega Ahuactzi",
+            "to": "coespotlax@hotmail.com"
+        },
+        {
+            "id": 71,
+            "ente_publico": "CONSEJO ESTATAL DE POBLACIÓN",
+            "name": "Lcda. Belén Vega Ahuactzi",
+            "to": "coespotlax@hotmail.com"
+        },
+        {
+            "id": 72,
+            "ente_publico": "Contla de Juan Cuamatzi",
+            "name": "Licenciado Moisés Juárez Matamoros",
+            "to": "abogadovirgo@hotmail.com"
+        },
+        {
+            "id": 73,
+            "ente_publico": "Contla de Juan Cuamatzi",
+            "name": "Ingeniero Gilberto Flores Maldonado",
+            "to": "gfsky22@gmail.com"
+        },
+        {
+            "id": 74,
+            "ente_publico": "CONTLA DE JUAN CUAMATZI",
+            "name": "Licenciada Ana Ivonne Roldán Xolocotzi",
+            "to": "presidencia@contla.gob.mx"
+        },
+        {
+            "id": 75,
+            "ente_publico": "COORDINACIÓN DE RADIO, CINE Y TELEVISIÓN DE TLAXCALA",
+            "name": "Lcda. Angélica Domínguez Hernández",
+            "to": "coracyt_noticias@yahoo.com.mx"
+        },
+        {
+            "id": 76,
+            "ente_publico": "COORDINACIÓN DE SERVICIO SOCIAL DE INSTITUCIONES DE EDUCACIÓN SUPERIOR",
+            "name": "Lcdo. Víctor Manuel Báez Alvarado",
+            "to": "cossies_tlax@hotmail.com"
+        },
+        {
+            "id": 77,
+            "ente_publico": "COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL",
+            "name": "Lcdo. Juvencio Nieto Galicia ",
+            "to": "despacho.cepc.tlaxcala@gmail.com"
+        },
+        {
+            "id": 78,
+            "ente_publico": "COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL DEL GOBIERNO DE TLAXCALA",
+            "name": "Lcdo. Octavio Ortega Velio Mejía",
+            "to": "despacho.comunicacion@tlaxcala.gob.mx"
+        },
+        {
+            "id": 79,
+            "ente_publico": "COORDINACIÓN GENERAL DE PLANEACIÓN E INVERSIÓN",
+            "name": "Dr. Noé Rodríguez Roldán",
+            "to": "karla.ortiz.hdez@gmail.com"
+        },
+        {
+            "id": 80,
+            "ente_publico": "CUAPIAXTLA",
+            "name": "Licenciada En Contaduría Pública Alma Lorena Escobar González",
+            "to": "gonzalescobarlorena@gmail.com"
+        },
+        {
+            "id": 81,
+            "ente_publico": "Cuapiaxtla",
+            "name": "Ingeniero Manuel Gálvez Romero",
+            "to": "manuel.galvezrom@gmail.com"
+        },
+        {
+            "id": 82,
+            "ente_publico": "Cuapiaxtla",
+            "name": "C. Vicente Hernández Montes",
+            "to": "vicent.herna_2197@outlook.com"
+        },
+        {
+            "id": 83,
+            "ente_publico": "Cuaxomulco",
+            "name": "Licenciada Leticia Luna Arenas",
+            "to": "lunita_fer6@hotmail.com"
+        },
+        {
+            "id": 84,
+            "ente_publico": "CUAXOMULCO",
+            "name": "C. Román Montiel Santiago",
+            "to": "presidenciacuaxomulco@gmail.com"
+        },
+        {
+            "id": 85,
+            "ente_publico": "Cuaxomulco",
+            "name": "Licenciada Maytet Montiel Parra",
+            "to": "sindicaturacuaxomulco2024@gmail.com"
+        },
+        {
+            "id": 86,
+            "ente_publico": "DESPACHO DE LA C. GOBERNADORA",
+            "name": "Lcda. Lorena Cuéllar Cisneros",
+            "to": "lorenacuellarc2020@gmail.com"
+        },
+        {
+            "id": 87,
+            "ente_publico": "El Carmen Tequexquitla",
+            "name": "Licenciado Azarel Izalde Fernández",
+            "to": "azaizaldefer21@gmail.com"
+        },
+        {
+            "id": 88,
+            "ente_publico": "EL CARMEN TEQUEXQUITLA",
+            "name": "C. María Araceli Martínez Cortez",
+            "to": "etequexquitla@gmail.com"
+        },
+        {
+            "id": 89,
+            "ente_publico": "El Carmen Tequexquitla",
+            "name": "Licenciado Alejandro Bonilla Ramírez",
+            "to": "eyes_green_5@hotmail.com"
+        },
+        {
+            "id": 90,
+            "ente_publico": "EL COLEGIO DE TLAXCALA A.C.",
+            "name": "Dr. Serafín Ríos Elorza",
+            "to": "serafin.rios@coltlax.edu.mx"
+        }
+    ]
+}

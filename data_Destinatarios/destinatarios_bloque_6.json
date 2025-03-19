@@ -1,0 +1,256 @@
+{
+    "entes": [
+        {
+            "id": 242,
+            "ente_publico": "Tlaxco",
+            "name": "Ingeniero Arturo Hernández Rodríguez",
+            "to": "sindicatura@tlaxcotlaxcala.com"
+        },
+        {
+            "id": 243,
+            "ente_publico": "TOCATLÁN",
+            "name": "C. Sergio Avendaño Pérez",
+            "to": "edcontrerasln@gmail.com"
+        },
+        {
+            "id": 244,
+            "ente_publico": "Tocatlán",
+            "name": "Licenciada Angélica González Galindo",
+            "to": "sindicatura2427@hotmail.com"
+        },
+        {
+            "id": 245,
+            "ente_publico": "Tocatlán",
+            "name": "Licenciada Martha Sánchez Hernández",
+            "to": "tocatlancontraloria@gmail.com"
+        },
+        {
+            "id": 246,
+            "ente_publico": "Totolac",
+            "name": "C.P. José Isabel González Flores",
+            "to": "contraloria@totolac.gob.mx"
+        },
+        {
+            "id": 247,
+            "ente_publico": "TOTOLAC",
+            "name": "Ingeniero Benjamín Atonal Conde",
+            "to": "gmunicipaldetotolac@gmail.com"
+        },
+        {
+            "id": 248,
+            "ente_publico": "Totolac",
+            "name": "Licenciada Isis Yanet Baranda Chávez",
+            "to": "sindico@totolac.gob.mx"
+        },
+        {
+            "id": 249,
+            "ente_publico": "TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE",
+            "name": "Lcdo. Miguel Ángel Tlapale Hernández",
+            "to": " presidenciatcyat@tca-tlax.org        "
+        },
+        {
+            "id": 250,
+            "ente_publico": "Tribunal de Justicia Administrativa",
+            "name": "Lcda. Luz María Vázquez Ávila",
+            "to": "avluzmao@gmail.com"
+        },
+        {
+            "id": 251,
+            "ente_publico": "Tribunal de Justicia Administrativa",
+            "name": "Mtro. Elías Cortés Roa\n\n",
+            "to": "tja_ponencia3@tjaet.gob.mx"
+        },
+        {
+            "id": 252,
+            "ente_publico": "TRIBUNAL ELECTORAL DE TLAXCALA",
+            "name": "Lcdo. Miguel Nava Xochitiotzi",
+            "to": "mnava@tetlax.org.mx"
+        },
+        {
+            "id": 253,
+            "ente_publico": "Tribunal Superior de Justicia",
+            "name": "Mtra. Fanny Margarita Amador Montes",
+            "to": "salacivil.ponencia1@tsjtlaxcala.gob.mx"
+        },
+        {
+            "id": 254,
+            "ente_publico": "Tribunal Superior de Justicia",
+            "name": "Dra. Mildred Murbartián Aguilar",
+            "to": "salacivil.ponencia2@tsjtlaxcala.gob.mx"
+        },
+        {
+            "id": 255,
+            "ente_publico": "Tribunal Superior de Justicia",
+            "name": "Lic. Enrique Acoltzi Conde",
+            "to": "salacivil.ponencia3@tsjtlaxcala.gob.mx"
+        },
+        {
+            "id": 256,
+            "ente_publico": "Tribunal Superior de Justicia",
+            "name": "Mtra. Marisol Barba Pérez",
+            "to": "salapenal.ponencia1@tsjtlaxcala.gob.mx"
+        },
+        {
+            "id": 257,
+            "ente_publico": "Tribunal Superior de Justicia",
+            "name": "Mtro. Pedro Sánchez Ortega",
+            "to": "salapenal.ponencia2@tsjtlaxcala.gob.mx"
+        },
+        {
+            "id": 258,
+            "ente_publico": "Tribunal Superior de Justicia",
+            "name": "Mtra. Mary Cruz Cortés Ornelas",
+            "to": "salapenal.ponencia3@tsjtlaxcala.gob.mx"
+        },
+        {
+            "id": 259,
+            "ente_publico": "TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE TLAXCALA",
+            "name": "Mtra. Anel Bañuelos Meneses",
+            "to": "presidencia@tsjtlaxcala.gob.mx"
+        },
+        {
+            "id": 260,
+            "ente_publico": "Tzompantepec",
+            "name": "Licenciado Rodrigo Barrón Córdova",
+            "to": "oictzompantepec@gmail.com"
+        },
+        {
+            "id": 261,
+            "ente_publico": "Tzompantepec",
+            "name": "Licenciada Vanessa Tapia Ramos",
+            "to": "vanetr3097@icloud.com"
+        },
+        {
+            "id": 263,
+            "ente_publico": "UNIVERSIDAD POLITÉCNICA DE TLAXCALA",
+            "name": "Dra. Rosalía Nalleli Pérez Estrada",
+            "to": "rectoria@uptlax.edu.mx"
+        },
+        {
+            "id": 264,
+            "ente_publico": "UNIVERSIDAD POLITÉCNICA DE TLAXCALA REGIÓN PONIENTE",
+            "name": "Mtro. Víctor Castro López",
+            "to": "rectoria@uptlaxponiente.edu.mx "
+        },
+        {
+            "id": 265,
+            "ente_publico": "UNIVERSIDAD TECNOLÓGICA DE TLAXCALA",
+            "name": "Mtro. Lenin Calva Pérez",
+            "to": "rector@uttlaxcala.edu.mx"
+        },
+        {
+            "id": 266,
+            "ente_publico": "Xaloztoc",
+            "name": "Licenciada Evelyn Sánchez Báez",
+            "to": "evebaez181099@gmail.com"
+        },
+        {
+            "id": 267,
+            "ente_publico": "Xaloztoc",
+            "name": "Licenciado Francisco Castillo Pérez",
+            "to": "frankcaspe24@gmail.com"
+        },
+        {
+            "id": 268,
+            "ente_publico": "XALOZTOC",
+            "name": "Ciudadano Elías Nava Sánchez",
+            "to": "nava.eliaspresidente2427@gmail.com"
+        },
+        {
+            "id": 269,
+            "ente_publico": "XALTOCAN",
+            "name": "Médico José Luis Hernández Vázquez",
+            "to": "presidencia@xaltocan.gob.mx"
+        },
+        {
+            "id": 270,
+            "ente_publico": "Xaltocan",
+            "name": "Licenciada Ma. Irene Guadalupe Serrano Ruíz",
+            "to": "serranoruiz63@hotmail.com"
+        },
+        {
+            "id": 271,
+            "ente_publico": "Xaltocan",
+            "name": "Licenciada Yamileth Vázquez Sánchez",
+            "to": "yamilethvazquez051@gmail.com"
+        },
+        {
+            "id": 272,
+            "ente_publico": "Xicohtzinco",
+            "name": "Licenciada Alaide García Morales",
+            "to": "garcia_ma25@hotmail.com"
+        },
+        {
+            "id": 273,
+            "ente_publico": "XICOHTZINCO",
+            "name": "Ingeniero Juan Ramírez Ávalos",
+            "to": "jravalos1970@hotmail.com"
+        },
+        {
+            "id": 274,
+            "ente_publico": "Xicohtzinco",
+            "name": "Licenciada Verenice Ortíz Sánchez",
+            "to": "osverenice@gmail.com"
+        },
+        {
+            "id": 275,
+            "ente_publico": "YAUHQUEMEHCAN",
+            "name": "Licenciado David Vega Terrazas",
+            "to": "davidvegaterrazas@gmail.com"
+        },
+        {
+            "id": 276,
+            "ente_publico": "Yauhquemehcan",
+            "name": "Maestro Marco Antonio Ocampo Cid",
+            "to": "ocacidunam@yahoo.com.mx"
+        },
+        {
+            "id": 277,
+            "ente_publico": "Yauhquemehcan",
+            "name": "Licenciada Ana Rosa Gameros Ordoñes",
+            "to": "sindicaturayauhquemehcan2024@gmail.com"
+        },
+        {
+            "id": 278,
+            "ente_publico": "ZACATELCO",
+            "name": "Licenciado José Miguel Acatzi Luna",
+            "to": "fuerteysegurozacatelco@gmail.com"
+        },
+        {
+            "id": 279,
+            "ente_publico": "Zacatelco",
+            "name": "Nancy Juárez Corte",
+            "to": "nancyjucor@gmail.com"
+        },
+        {
+            "id": 280,
+            "ente_publico": "Zacatelco",
+            "name": "Licenciado en Derecho Francisco Fierro Orea",
+            "to": "paco.fierro.2891@gmail.com"
+        },
+        {
+            "id": 281,
+            "ente_publico": "ZILTLALTÉPEC DE TRINIDAD SÁNCHEZ SANTOS",
+            "name": "Ingeniera Gudelia Palma Corona",
+            "to": "gpalmacorona@gmail.com"
+        },
+        {
+            "id": 282,
+            "ente_publico": "Zitlaltépec de Trinidad Sánchez Santos",
+            "name": "C. Ángel Jiménez Rojas",
+            "to": "Angelrojas7108@gmail.com"
+        },
+        {
+            "id": 283,
+            "ente_publico": "Zitlaltépec de Trinidad Sánchez Santos",
+            "name": "Licenciado Marcial Bernardino Tlachi Juárez",
+            "to": "tlachijuarez@yahoo.com.mx"
+        },
+        {
+            "id": 284,
+            "ente_publico": "REGISTRO PUBLICO Y DE LA PROPIEDAD",
+            "name": "Lcda. Dora Delia Hernández Roldán",
+            "to": "doradelia.hernandez@hotmail.com"
+        }
+    ]
+}

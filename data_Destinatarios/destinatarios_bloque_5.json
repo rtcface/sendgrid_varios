@@ -1,0 +1,292 @@
+{
+    "entes": [
+        {
+            "id": 192,
+            "ente_publico": "Santa Cruz Quilehtla",
+            "name": "C. Jazareth Flores Pérez",
+            "to": "sindicatura.quilehtla@gmail.com"
+        },
+        {
+            "id": 193,
+            "ente_publico": "Santa Cruz Tlaxcala",
+            "name": "Licenciada Noemi Moncayo Sánchez",
+            "to": "guillermo060262@gmail.com"
+        },
+        {
+            "id": 194,
+            "ente_publico": "SANTA CRUZ TLAXCALA",
+            "name": "Licenciado Omar Maldonado Tetlalmatzi",
+            "to": "presidencia@municipiodesantacruztlaxcala.gob.mx"
+        },
+        {
+            "id": 195,
+            "ente_publico": "Santa Cruz Tlaxcala",
+            "name": "Petra Ramírez Meneses",
+            "to": "sindicaturastacruz@gmail.com"
+        },
+        {
+            "id": 196,
+            "ente_publico": "Santa Isabel Xiloxoxtla",
+            "name": "Licenciada Ania Carolina Molina Jiménez",
+            "to": "carmona.asociados@outlook.com"
+        },
+        {
+            "id": 197,
+            "ente_publico": "Santa Isabel Xiloxoxtla",
+            "name": "C. Aarón Flores Juárez",
+            "to": "fjuarezchavelo79@gmail.com"
+        },
+        {
+            "id": 198,
+            "ente_publico": "SANTA ISABEL XILOXOXTLA",
+            "name": "C. Jazmín Jiménez Rugerio",
+            "to": "omar.josxmark@gmail.com"
+        },
+        {
+            "id": 199,
+            "ente_publico": "SECRETARÍA DE BIENESTAR",
+            "name": "Lcda. María Estela Álvarez Corona",
+            "to": "secretaria@bienestartlaxcala.gob.mx "
+        },
+        {
+            "id": 200,
+            "ente_publico": "SECRETARÍA DE CULTURA",
+            "name": "Lcda. Karen Álvarez Villeda",
+            "to": "direccion@culturatlaxcala.com.mx"
+        },
+        {
+            "id": 201,
+            "ente_publico": "SECRETARÍA DE DESARROLLO ECONÓMICO",
+            "name": "Lcdo. Javier Marroquín Calderón",
+            "to": "despacho@sedecotlaxcala.gob.mx"
+        },
+        {
+            "id": 202,
+            "ente_publico": "SECRETARÍA DE EDUCACIÓN PÚBLICA DEL ESTADO Y DE LA USET",
+            "name": "Dr. Homero Meneses Hernández",
+            "to": "secretario@septlaxcala.gob.mx"
+        },
+        {
+            "id": 203,
+            "ente_publico": "SECRETARÍA DE GOBIERNO",
+            "name": "Lcdo. Luis Antonio Ramírez Hernández",
+            "to": "secretaria.segob@tlaxcala.gob.mx"
+        },
+        {
+            "id": 204,
+            "ente_publico": "SECRETARÍA DE IMPULSO AGROPECUARIO",
+            "name": "Ing. José de Jesús Rafael de la Peña Bernal",
+            "to": "sia@siatlaxcala.gob.mx"
+        },
+        {
+            "id": 205,
+            "ente_publico": "SECRETARÍA DE INFRAESTRUCTURA",
+            "name": "Arq. Diego Corona Cremean",
+            "to": "dcorona.si@tlaxcala.gob.mx"
+        },
+        {
+            "id": 206,
+            "ente_publico": "SECRETARIA DE LAS MUJERES DEL ESTADO DE TLAXCALA",
+            "name": "Lcda. Alma Nydia Cano Rodríguez",
+            "to": "difusion.iem@hotmail.com , \n direccion.iem@tlaxcala.gob.mx"
+        },
+        {
+            "id": 207,
+            "ente_publico": "SECRETARÍA DE MOVILIDAD Y TRANSPORTES",
+            "name": "Lic. Marco Tulio Munive Temoltzin",
+            "to": "tlaxcala.smyt@tlaxcala.gob.mx"
+        },
+        {
+            "id": 208,
+            "ente_publico": "SECRETARÍA DE ORDENAMIENTO TERRITORIAL Y VIVIENDA",
+            "name": "Lcdo. David Guerrero Tapia",
+            "to": "secretaria.sotyv@tlaxcala.gob.mx"
+        },
+        {
+            "id": 209,
+            "ente_publico": "SECRETARÍA DE PLANEACIÓN Y FINANZAS",
+            "name": "C.P. David Álvarez Ochoa",
+            "to": "david_alvarezo@finanzastlax.gob.mx"
+        },
+        {
+            "id": 210,
+            "ente_publico": "SECRETARÍA DE SEGURIDAD CIUDADANA",
+            "name": "Capitán de Navío IM. DEM. Alberto Martín Perea Marrufo",
+            "to": "secretariadeseguridadciudadana@tlaxcala.gob.mx"
+        },
+        {
+            "id": 211,
+            "ente_publico": "SECRETARÍA DE TRABAJO Y COMPETITIVIDAD",
+            "name": "Mtro. José Noé Altamirano Islas",
+            "to": "secretario.styc@tlaxcala.gob.mx"
+        },
+        {
+            "id": 212,
+            "ente_publico": "SECRETARÍA DE TURISMO",
+            "name": "Mtro. Fabricio Mena Rodríguez",
+            "to": "sectur.tlax@gmail.com"
+        },
+        {
+            "id": 213,
+            "ente_publico": "SECRETARÍA DEL MEDIO AMBIENTE / COORDINACIÓN GENERAL DE ECOLOGÍA",
+            "name": "Lcdo. Pedro Aquino Alvarado",
+            "to": "despacho.sma@tlaxcala.gob.mx "
+        },
+        {
+            "id": 214,
+            "ente_publico": "SECRETARÍO DE SALUD Y DIRECCIÓN GENERAL DEL O.P.D. SALUD DE TLAXCALA",
+            "name": "Dr. Rigoberto Zamudio Meneses",
+            "to": " opd.saludtlax@saludtlax.gob.mx"
+        },
+        {
+            "id": 215,
+            "ente_publico": "SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+            "name": "Lcda. Mariana Espinosa de los Monteros Cuéllar\n",
+            "to": "mariana@diftlaxcala.gob.mx"
+        },
+        {
+            "id": 216,
+            "ente_publico": "Tenancingo",
+            "name": "Mtra. Ireli Landa Arce",
+            "to": "irelilanda@gmail.com"
+        },
+        {
+            "id": 218,
+            "ente_publico": "Tenancingo",
+            "name": "Abogado Jesús Salvador Herrera Jiménez",
+            "to": "salvadortenancingo@gmail.com"
+        },
+        {
+            "id": 220,
+            "ente_publico": "TEOLOCHOLCO",
+            "name": "C. Valentín Meléndez Tecuapacho",
+            "to": "jobas301@gmail.com"
+        },
+        {
+            "id": 221,
+            "ente_publico": "Teolocholco",
+            "name": "Licenciado en Contaduría Publica Guillermo Juan Berruecos Rodríguez",
+            "to": "organointernocontrol2427@gmail.com"
+        },
+        {
+            "id": 222,
+            "ente_publico": "Tepetitla de Lardizábal",
+            "name": "Maestra Angelica Pérez Pérez",
+            "to": "angieperea@live.com.ar"
+        },
+        {
+            "id": 223,
+            "ente_publico": "Tepetitla de Lardizábal",
+            "name": "Licenciado en Derecho José Carlos Cano Flores",
+            "to": "cano89608@gmail.com"
+        },
+        {
+            "id": 224,
+            "ente_publico": "TEPETITLA DE LARDIZÁBAL",
+            "name": "Licenciado Yoni Hernández Alvarado",
+            "to": "mafer.ro.he19@gmail.com "
+        },
+        {
+            "id": 225,
+            "ente_publico": "Tepeyanco",
+            "name": "Licenciado Luis Tehozol Rivera.",
+            "to": "ltrivera7691@gmail.com"
+        },
+        {
+            "id": 226,
+            "ente_publico": "TEPEYANCO",
+            "name": "Licenciado Williams Zainos Flores",
+            "to": "presidenciamunicipal@tepeyanco.gob.mx"
+        },
+        {
+            "id": 227,
+            "ente_publico": "Tepeyanco",
+            "name": "Licenciada Yazareth Morales Trejo",
+            "to": "sindicotepeyanco@gmail.com"
+        },
+        {
+            "id": 228,
+            "ente_publico": "Terrenate",
+            "name": "C. Jhovany Fernández Romero",
+            "to": "jhovanyfernandezromero@gmail.com"
+        },
+        {
+            "id": 229,
+            "ente_publico": "Terrenate",
+            "name": "C. Lizbeth Montiel Masias",
+            "to": "lizmontielmasias02@gmail.com"
+        },
+        {
+            "id": 230,
+            "ente_publico": "TERRENATE",
+            "name": "C. Filogonio Palafox Dorantes",
+            "to": "presidente.terrenate2027@gmail.com"
+        },
+        {
+            "id": 231,
+            "ente_publico": "Tetla de La Solidaridad",
+            "name": "Licenciada Laura Soledad Domínguez Lozada",
+            "to": "ldominguez@tetlatlaxcala.gob.mx"
+        },
+        {
+            "id": 232,
+            "ente_publico": "TETLA DE LA SOLIDARIDAD",
+            "name": "Licenciado Giovani Montiel López",
+            "to": "secretaria_ayuntamiento@tetlatlaxcala.gob.mx"
+        },
+        {
+            "id": 233,
+            "ente_publico": "Tetla de la Solidaridad",
+            "name": "Licenciado Enrique Velázquez Trejo",
+            "to": "velazq8333@gmail.com"
+        },
+        {
+            "id": 234,
+            "ente_publico": "Tetlatlahuca",
+            "name": "Licenciado en Contaduría Pública Alfredo Luna Ruiz",
+            "to": "alfred1267@hotmail.com"
+        },
+        {
+            "id": 235,
+            "ente_publico": "TETLATLAHUCA",
+            "name": "C. Hugo Mendoza Salazar",
+            "to": "hugo.mendoza.salazar@gmail.com"
+        },
+        {
+            "id": 236,
+            "ente_publico": "Tetlatlahuca",
+            "name": "C. Sagrario Medel Serrano",
+            "to": "sagrariomed@gmail.com"
+        },
+        {
+            "id": 237,
+            "ente_publico": "Tlaxcala",
+            "name": "Licenciado Luis Pineda Ortega",
+            "to": "control.interno@tlaxcaladexicohtencatl.gob.mx"
+        },
+        {
+            "id": 238,
+            "ente_publico": "TLAXCALA",
+            "name": "Arquitecto Alfonso Sánchez García",
+            "to": "despacho.presidencia@tlaxcaladexicohtencatl.gob.mx"
+        },
+        {
+            "id": 239,
+            "ente_publico": "Tlaxcala",
+            "name": "Licenciada Ivón Hernández Blancas",
+            "to": "sindicatura@tlaxcaladexicohtencatl.gob.mx"
+        },
+        {
+            "id": 240,
+            "ente_publico": "Tlaxco",
+            "name": "Licenciada Rosita Flores Gálvez",
+            "to": "contraloria@tlaxcotlaxcala.com"
+        },
+        {
+            "id": 241,
+            "ente_publico": "TLAXCO",
+            "name": "Maestra Diana Torrejón Rodríguez",
+            "to": "presidencia@tlaxcotlaxcala.com"
+        }
+    ]
+}

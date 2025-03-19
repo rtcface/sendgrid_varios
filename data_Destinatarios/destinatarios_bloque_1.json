@@ -1,0 +1,274 @@
+{
+    "entes": [
+        {
+            "id": 1,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Anel Martínez Pérez",
+            "to": "anel.martinez@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 2,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Bladimir Zainos Flores",
+            "to": "bladimir.zainos@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 3,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Blanca Águila Lima",
+            "to": "blanca.aguila@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 4,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Brenda Cecilia Villantes Rodríguez",
+            "to": "cecilia.villantes@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 5,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. David Martínez del Razo",
+            "to": "david.martinez@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 6,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Emilio De la Peña Aponte",
+            "to": "emilio.aponte@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 7,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Engracia Morales Delgado",
+            "to": "engracia.morales@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 8,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Ever Alejandro Campech Avelar",
+            "to": "ever.campech@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 9,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Gabriela Hernández Islas",
+            "to": "gabriela.hernandez@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 10,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Héctor Israel Ortiz Ortiz",
+            "to": "hector.ortiz@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 11,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Jaciel González Herrera",
+            "to": "jaciel.gonzalez@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 12,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Laura Yamili Flores Lozano",
+            "to": "laura.yamili@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 13,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Lorena Ruiz García",
+            "to": "lorena.ruiz@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 14,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Madai Pérez Carrillo",
+            "to": "madai.perez@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 15,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. María Ana Bertha Mastranzo Corona",
+            "to": "maria.mastranzo@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 16,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Maria Aurora Villeda Temoltzin",
+            "to": "aurora.villeda@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 17,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Maribel Cervantes Hernández",
+            "to": "maribel.cervantes@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 18,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Maribel León Cruz",
+            "to": "maribel.leon@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 19,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Miguel Ángel Caballero Yonca",
+            "to": "miguel.yonca@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 20,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Miriam Esmeralda Martínez Sánchez",
+            "to": "miriam.martinez@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 21,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Reyna Flor Báez Lozano",
+            "to": "reyna.baez@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 22,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Sandra Guadalupe Aguilar Vega",
+            "to": "sandra.aguilar@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 23,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Silvano Garay Ulloa",
+            "to": "silvano.garay@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 24,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Soraya Noemi Bocardo Phillips",
+            "to": "soraya.bocardo@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 25,
+            "ente_publico": "PALACIO LEGISLATIVO",
+            "name": "Dip. Vicente Morales Pérez",
+            "to": "vicente.morales@congresodetlaxcala.gob.mx"
+        },
+        {
+            "id": 26,
+            "ente_publico": "ACUAMANALA DE MIGUEL HIDALGO",
+            "name": "C. Rogelio Pichón Luna",
+            "to": "acuamanalapresidencia@gmail.com "
+        },
+        {
+            "id": 27,
+            "ente_publico": "ACUAMANALA DE MIGUEL HIDALGO",
+            "name": "Ingeniera Sandra Luna Martínez",
+            "to": "acuamanalapresidencia@gmail.com"
+        },
+        {
+            "id": 28,
+            "ente_publico": "ACUAMANALA DE MIGUEL HIDALGO",
+            "name": "Licenciado Israel Cuatlapantzi Rojas",
+            "to": "israelcuatlapanzi@gmail.com"
+        },
+        {
+            "id": 29,
+            "ente_publico": "AMAXAC DE GUERRERO",
+            "name": "Licenciado Mauricio Pozos Castañón",
+            "to": "presidencia.amx2427@gmail.com"
+        },
+        {
+            "id": 30,
+            "ente_publico": "AMAXAC DE GUERRERO",
+            "name": "Licenciado  Serafín Hernández Romano",
+            "to": "serafinhernandezromano@gmail.com"
+        },
+        {
+            "id": 31,
+            "ente_publico": "AMAXAC DE GUERRERO",
+            "name": "Licenciada Francisca Peralta Vázquez",
+            "to": "sindicaturaamx24.27@gmail.com"
+        },
+        {
+            "id": 32,
+            "ente_publico": "Apetatitlán de Antonio Carvajal",
+            "name": "Licenciado Arturo León Tizapantzi",
+            "to": "artu.ch@hotmail.com"
+        },
+        {
+            "id": 33,
+            "ente_publico": "Apetatitlán de Antonio Carvajal",
+            "name": "Licenciada Diana Laura Pérez León",
+            "to": "diaanaperezz@gmail.com"
+        },
+        {
+            "id": 34,
+            "ente_publico": "APETATITLÁN DE ANTONIO CARVAJAL",
+            "name": "Maestro Ernesto Azaín Ávalos Marbán.",
+            "to": "municipiodeapetatitlan@gmail.com"
+        },
+        {
+            "id": 35,
+            "ente_publico": "Apizaco",
+            "name": "Licenciada en Contaduría Pública Certificada María Maricela Escobar Sánchez",
+            "to": "organo_control@apizaco.gob.mx"
+        },
+        {
+            "id": 36,
+            "ente_publico": "APIZACO",
+            "name": "C. Javier Rivera Bonilla",
+            "to": "presidencia@apizaco.gob.mx "
+        },
+        {
+            "id": 37,
+            "ente_publico": "Apizaco",
+            "name": "María de la Paz Flores Hernández",
+            "to": "sindicatura@apizaco.gob.mx"
+        },
+        {
+            "id": 38,
+            "ente_publico": "ATLANGATEPEC",
+            "name": "C. Mónica Guadalupe Barranco Bizuet",
+            "to": "atlangatepec@gmail.com"
+        },
+        {
+            "id": 39,
+            "ente_publico": "Atlangatepec",
+            "name": "Licenciado en Contaduría Pública Enrique Huitrón Sánchez",
+            "to": "cphuitron@yahoo.com.mx"
+        },
+        {
+            "id": 40,
+            "ente_publico": "Atlangatepec",
+            "name": "Ciudadano Iván Rebollo Castro",
+            "to": "sindicatura.municipal@atlangatepec.gob.mx"
+        },
+        {
+            "id": 41,
+            "ente_publico": "ATLTZAYANCA",
+            "name": "Luis Alberto Huerta Hernández",
+            "to": "atltzayanca2024.2027@gmail.com"
+        },
+        {
+            "id": 42,
+            "ente_publico": "Atltzayanca",
+            "name": "Licenciado en Contaduría Pública Luis Alberto Torres Mena",
+            "to": "faveba1@hotmail.com"
+        },
+        {
+            "id": 43,
+            "ente_publico": "Atltzayanca",
+            "name": "Licenciada Valentina Cerón Sánchez",
+            "to": "vale.cesa@live.com.mx"
+        },
+        {
+            "id": 44,
+            "ente_publico": "BENITO JUÁREZ",
+            "name": "Maestro Rubén Becerra Cerón.",
+            "to": "mpio.benitojuarez.tlx@gmail.com"
+        },
+        {
+            "id": 45,
+            "ente_publico": "Benito Juárez",
+            "name": "Licenciado en Contaduría Pública Rodrigo Domínguez Vázquez",
+            "to": "rodrigodominguez44@gmail.com"
+        }
+    ]
+}

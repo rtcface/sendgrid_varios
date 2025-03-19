@@ -1,0 +1,41 @@
+{
+  "Oic_Poder_Ejecutivo": [
+    {
+      "No.": "1",
+      "UpperCase": "SECRETARÍA DE LA FUNCIÓN PÚBLICA DE TLAXCALA",
+      "Sujeto Obligado": "SECRETARÍA DE LA FUNCIÓN PÚBLICA DE TLAXCALA",
+      "name": "L.C.P. Anahí Hernández Sánchez",
+      "Teléfono ": "Oficina: 2464650900 Ext. 2102",
+      "Cargo (c. correspondencia)": "Titular del Órgano Internos de Control de la Secretaria de la Función Pública de Tlaxcala",
+      "to": "rtcface@gmail.com",
+      "user_name": "contraloriainterna.sfp@tlaxcala.gob.mx",
+      "Contraseña": "t3mp0r4l",
+      "Estatus": "Pendiente Por Correo"
+    }
+  ],
+  "Oic_Municipal": [
+    {
+      "id": "001",
+      "Municipio": "MUNICIPIO DE TLAXCALA",
+      "name": "Lic. Adriana Lourdes Gomez",
+      "Teléfono de Presidencia Municipal": "246 497 8130",
+      "municipio": "capam",
+      "user_name": "capam@saetlax.org",
+      "Contraseña": "t3mp0r4l",
+      "to": "rtcface@gmail.com"
+    }
+  ],
+  "OIC_Organismos_Autonomos": [
+    {
+      "No": "1",
+      "Organismos Autónomos": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Tlaxcala",
+      "Nombre de titular ": "Lcda. Fidelia Polvo Caloch",
+      "Cargo (c. correspondencia)": "Jefa de oficina",
+      "Teléfono": "2461892520",
+      "Correo electrónico": "fpcaloch@hotmail.com",
+      "Usuario": "oic@saetlax.org",
+      "to": "rtcface@gmail.com",
+      "Estatus": "OK"
+    }
+  ]
+}

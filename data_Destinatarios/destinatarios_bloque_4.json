@@ -1,0 +1,286 @@
+{
+    "entes": [
+        {
+            "id": 142,
+            "ente_publico": "Natívitas",
+            "name": "Médico Cirujano Lourdes Salazar García",
+            "to": "lulu_sgl10@hotmail.com"
+        },
+        {
+            "id": 143,
+            "ente_publico": "OFICIALÍA MAYOR DE GOBIERNO",
+            "name": "Ldo. Ramiro Vivianco Chedraui",
+            "to": "oficialia.mayor.despacho@gmail.com"
+        },
+        {
+            "id": 144,
+            "ente_publico": "Panotla",
+            "name": "Licenciada Stephanie Nallely Díaz Hernández",
+            "to": "fanitcia2207@gmail.com"
+        },
+        {
+            "id": 145,
+            "ente_publico": "PANOTLA",
+            "name": "Profesor Ildelfonso Carro Roldán",
+            "to": "Idelfonso.carro.roldan1@gmail.com"
+        },
+        {
+            "id": 146,
+            "ente_publico": "Panotla",
+            "name": "Licenciada Jaqueline Amador Bonilla",
+            "to": "sindicaturapanotla@gmail.com"
+        },
+        {
+            "id": 147,
+            "ente_publico": "PAPALOTLA DE XICOHTÉNCATL",
+            "name": "Doctor Sergio Lara Muñoz",
+            "to": " presidencia@papalotlatlaxcala.gob.mx"
+        },
+        {
+            "id": 148,
+            "ente_publico": "Papalotla de Xicohténcatl",
+            "name": "Licenciada Itzel Xicohténcatl Corona",
+            "to": "itz.abo1712@gmail.com"
+        },
+        {
+            "id": 149,
+            "ente_publico": "Papalotla de Xicohténcatl",
+            "name": "Licenciada Nancy Muñoz Solis",
+            "to": "organointernodecontrol@papalotlatlaxcala.gob.mx"
+        },
+        {
+            "id": 150,
+            "ente_publico": "PATRONATO LA LIBERTAD CENTRO CULTURAL DE APIZACO",
+            "name": "Lcda. Ma. del Rayo Netzahuatl Ilhuicatzi",
+            "to": "madelrayonetzahuatl@gmail.com"
+        },
+        {
+            "id": 151,
+            "ente_publico": "PATRONATO PARA LAS EXPOSICIONES Y FERIAS DE LA CIUDAD DE TLAXCALA",
+            "name": "Lcda. Rosa Elena Nava García Méndez",
+            "to": "patronatoferiatlaxcala@gmail.com"
+        },
+        {
+            "id": 152,
+            "ente_publico": "PENSIONES CIVILES DEL ESTADO DE TLAXCALA",
+            "name": "Lcda. Radahid Hernández López",
+            "to": "despacho.pcet@tlaxcala.gob.mx"
+        },
+        {
+            "id": 153,
+            "ente_publico": "presidenta honorífica del Comité Consultivo de Bienestar y Desarrollo Social del Estado",
+            "name": "Lcda. María Fernanda Espinosa de los Monteros Cuéllar",
+            "to": "comiteconsultivotlax@gmail.com"
+        },
+        {
+            "id": 154,
+            "ente_publico": "San Damián Texóloc",
+            "name": "Licenciada Mariana Castrejon Herrera",
+            "to": "mariana.castrejon2468@gmail.com"
+        },
+        {
+            "id": 156,
+            "ente_publico": "SAN DAMIÁN TEXÓLOC",
+            "name": "David Sánchez Rincón",
+            "to": "presidenciatexoloc2024@outlook.com"
+        },
+        {
+            "id": 157,
+            "ente_publico": "San Francisco Tetlanohcan",
+            "name": "Licenciado Alan Padilla Serrano",
+            "to": "alanpadilla_18@hotmail.com"
+        },
+        {
+            "id": 158,
+            "ente_publico": "SAN FRANCISCO TETLANOHCAN",
+            "name": "Kritsbey Pérez Flores",
+            "to": "kperezflores80@gmail.com"
+        },
+        {
+            "id": 159,
+            "ente_publico": "San Francisco Tetlanohcan",
+            "name": "Ingeniero Lucio Rodríguez Atriano",
+            "to": "sindicaturatetlanohcan2427@gmail.com"
+        },
+        {
+            "id": 160,
+            "ente_publico": "San Jeronimo Zacualpan",
+            "name": "C.Emili Alixzandra Valencia Águila",
+            "to": "emvalen02@gmail.com"
+        },
+        {
+            "id": 161,
+            "ente_publico": "SAN JERÓNIMO ZACUALPAN",
+            "name": "Licenciada Sandra Corona Padilla",
+            "to": "asv24zac@gmail.com"
+        },
+        {
+            "id": 162,
+            "ente_publico": "San Jerónimo Zacualpan",
+            "name": "Licenciada en Contaduría Pública Jenevit Pérez Flores",
+            "to": "jenevitperezflores@gmail.com"
+        },
+        {
+            "id": 163,
+            "ente_publico": "San Jerónimo Zacualpan",
+            "name": "C. Saúl Corona Fonseca",
+            "to": "scoronao987@gmail.com"
+        },
+        {
+            "id": 164,
+            "ente_publico": "San José Teacalco",
+            "name": "Licenciado Alan Geovanny Fuentes Sánchez",
+            "to": "fusa_920701@hotmail.com"
+        },
+        {
+            "id": 165,
+            "ente_publico": "San José Teacalco",
+            "name": "C. Ezequiel SanLuis Vázquez",
+            "to": "municipiosanjoseteacalco2427@gmail.com"
+        },
+        {
+            "id": 166,
+            "ente_publico": "SAN JOSÉ TEACALCO",
+            "name": "C. Griselda Aguilar Macías",
+            "to": "secretaria.presidencia.t@gmail.com "
+        },
+        {
+            "id": 167,
+            "ente_publico": "SAN JUAN HUACTZINCO",
+            "name": "Licenciado Eberth Jhon Robles Ocotzi",
+            "to": "ayuntamientohuactzinco@gmail.com"
+        },
+        {
+            "id": 168,
+            "ente_publico": "San Juan Huactzinco",
+            "name": "Licenciado Marco Antonio Carro Guzmán",
+            "to": "carguz_elv21@hotmail.com"
+        },
+        {
+            "id": 169,
+            "ente_publico": "SAN LORENZO AXOCOMANITLA",
+            "name": "Licenciada Gabriela Hernández Montiel",
+            "to": "axocomanitlasetransforma@gmail.com"
+        },
+        {
+            "id": 170,
+            "ente_publico": "San Lorenzo Axocomanitla",
+            "name": "Licenciada Jenny Maza Meneses",
+            "to": "jennymaza898@gmail.com"
+        },
+        {
+            "id": 171,
+            "ente_publico": "San Lorenzo Axocomanitla",
+            "name": "Licenciado Adolfo Santamaría Romero",
+            "to": "sindicaturaxo@gmail.com"
+        },
+        {
+            "id": 172,
+            "ente_publico": "San Lucas Tecopilco",
+            "name": "L.C.P. Samantha Adali Muñoz Vázquez",
+            "to": "contraloriatecopilco24@gmail.com"
+        },
+        {
+            "id": 175,
+            "ente_publico": "San Pablo del Monte",
+            "name": "Licenciado en Contaduría Pública Iván Flores Silva",
+            "to": "cpivanfloressilva@gmail.com"
+        },
+        {
+            "id": 176,
+            "ente_publico": "SAN PABLO DEL MONTE",
+            "name": "Maestra Ana Lucía Arce Luna",
+            "to": "presidencia@ayuntamientospm.gob.mx"
+        },
+        {
+            "id": 177,
+            "ente_publico": "San Pablo del Monte",
+            "name": "C. Rodolfo González Cruz",
+            "to": "rodolfogcruz@hotmail.com"
+        },
+        {
+            "id": 178,
+            "ente_publico": "SANCTÓRUM DE LÁZARO CÁRDENAS",
+            "name": "Licenciado Iván Alejandro Alemán Juárez",
+            "to": "ayuntamiento24sanctorum27@gmail.com"
+        },
+        {
+            "id": 179,
+            "ente_publico": "Sanctórum de Lázaro Cárdenas",
+            "name": "C. Marina Ramírez García",
+            "to": "marina101325@gmail.com"
+        },
+        {
+            "id": 180,
+            "ente_publico": "Sanctórum de Lázaro Cárdenas",
+            "name": "Licenciado Carlos Eligio Cova Castillo",
+            "to": "organocontrolinterno505@gmail.com"
+        },
+        {
+            "id": 181,
+            "ente_publico": "SANTA ANA NOPALUCAN",
+            "name": "Ingeniero Pedro Pérez Vásquez",
+            "to": "despachonopalucan2427@gmail.com"
+        },
+        {
+            "id": 182,
+            "ente_publico": "Santa Ana Nopalucan",
+            "name": "Profa. Francisca Olguín Ferniza",
+            "to": "olguinferniza900@gmail.com"
+        },
+        {
+            "id": 183,
+            "ente_publico": "Santa Ana Nopalucan",
+            "name": "L.C.P. Vicente Vásquez Cervantes",
+            "to": "vicentevas373@gmail.com"
+        },
+        {
+            "id": 184,
+            "ente_publico": "Santa Apolonia Teacalco",
+            "name": "Licenciada Madián Pérez Gutiérrez",
+            "to": "madianpg@gmail.com"
+        },
+        {
+            "id": 185,
+            "ente_publico": "SANTA APOLONIA TEACALCO",
+            "name": "C. Arturo Macuilt Díaz",
+            "to": "presidencia.teacalco@gmail.com"
+        },
+        {
+            "id": 186,
+            "ente_publico": "Santa Apolonia Teacalco",
+            "name": "Licenciada Ana Karen Solano Mejía",
+            "to": "sindicaturamuniipal@gmail.com"
+        },
+        {
+            "id": 187,
+            "ente_publico": "Santa Catarina Ayometla",
+            "name": "Licenciado Edilberto Méndez Hernández",
+            "to": "contraloria_2021@outlook.com"
+        },
+        {
+            "id": 188,
+            "ente_publico": "Santa Catarina Ayometla",
+            "name": "Doctora Chantal Cortés Díaz",
+            "to": "dracdiaz06@gmail.com"
+        },
+        {
+            "id": 189,
+            "ente_publico": "SANTA CATARINA AYOMETLA",
+            "name": "C. David Cortés Cuchillo",
+            "to": "municipio.ayometla.2024.2027@gmail.com"
+        },
+        {
+            "id": 190,
+            "ente_publico": "Santa Cruz Quilehtla",
+            "name": "Licenciada Sandra Sánchez Moreno",
+            "to": "contraloria.mscq.2024@gmail.com"
+        },
+        {
+            "id": 191,
+            "ente_publico": "SANTA CRUZ QUILEHTLA",
+            "name": "C. Aureliano Sánchez Sánchez",
+            "to": "presidencia.quilehtla2021.2024@gmail.com"
+        }
+    ]
+}
